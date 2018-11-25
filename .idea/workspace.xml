@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="966e44be-d999-4ebc-9430-bb72232e52a8" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/mfs_TC$Unittests_for_EditService_TC_admin_login_test_blog.coverage" NAME="Unittests for EditService_TC.admin_login.test_blog Coverage Results" MODIFIED="1543178819167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/8210testCases$Unittests_for_ChangePassword_TC_admin_login.coverage" NAME="Unittests for ChangePassword_TC.admin_login Coverage Results" MODIFIED="1543034233408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/8210testCases$Unittests_for_ForgotPassword_TC_admin_login.coverage" NAME="Unittests for ForgotPassword_TC.admin_login Coverage Results" MODIFIED="1543035914353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mfs_TC$Unittests_for_DeleteCustomer_TC_admin_login.coverage" NAME="Unittests for DeleteCustomer_TC.admin_login Coverage Results" MODIFIED="1543171886883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mfs_TC$Unittests_in_DeleteService_TC_py.coverage" NAME="Unittests in DeleteService_TC.py Coverage Results" MODIFIED="1543177020178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mfs_TC$Unittests_in_AddCustomer_TC_py.coverage" NAME="Unittests in AddCustomer_TC.py Coverage Results" MODIFIED="1543178589087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mfs_TC$Unittests_for_DeleteProduct_TC_admin_login_test_blog.coverage" NAME="Unittests for DeleteProduct_TC.admin_login.test_blog Coverage Results" MODIFIED="1543179039464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mfs_TC$Unittests_for_AddCustomer_TC_admin_login_test_blog.coverage" NAME="Unittests for AddCustomer_TC.admin_login.test_blog Coverage Results" MODIFIED="1543171772748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mfs_TC$Unittests_for_AddProduct_TC_admin_login_test_blog.coverage" NAME="Unittests for AddProduct_TC.admin_login.test_blog Coverage Results" MODIFIED="1543178916718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mfs_TC$Unittests_for_EditProduct_TC_admin_login.coverage" NAME="Unittests for EditProduct_TC.admin_login Coverage Results" MODIFIED="1543178032145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mfs_TC$Unittests_for_loginLogout_TC_admin_login_test_blog.coverage" NAME="Unittests for loginLogout_TC.admin_login.test_blog Coverage Results" MODIFIED="1543165968988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mfs_TC$Unittests_for_DeleteService_TC_admin_login_test_blog.coverage" NAME="Unittests for DeleteService_TC.admin_login.test_blog Coverage Results" MODIFIED="1543178862788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/8210testCases$addUserAdmin_TC__1_.coverage" NAME="addUserAdmin_TC (1) Coverage Results" MODIFIED="1543031163263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mfs_TC$Unittests_for_EditProduct_TC_admin_login_test_blog.coverage" NAME="Unittests for EditProduct_TC.admin_login.test_blog Coverage Results" MODIFIED="1543178983435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/8210assign4$Unittests_for_ChangePassword_TC_admin_login_test_blog.coverage" NAME="Unittests for ChangePassword_TC.admin_login.test_blog Coverage Results" MODIFIED="1543126181817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mfs_TC$Unittests_for_loginLogout_TC_admin_login.coverage" NAME="Unittests for loginLogout_TC.admin_login Coverage Results" MODIFIED="1543166367545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mfs_TC$Unittests_for_DeleteCustomer_TC_admin_login_test_blog.coverage" NAME="Unittests for DeleteCustomer_TC.admin_login.test_blog Coverage Results" MODIFIED="1543178721654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/8210testCases$loginLogout_TC.coverage" NAME="loginLogout_TC Coverage Results" MODIFIED="1542217303372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/8210testCases$Login_AddPt_Logout_TC.coverage" NAME="Login_AddPt_Logout_TC Coverage Results" MODIFIED="1543032251071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/8210testCases$Unittests_for_ChangePassword_TC_admin_login_test_blog.coverage" NAME="Unittests for ChangePassword_TC.admin_login.test_blog Coverage Results" MODIFIED="1543032179595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mfs_TC$Unittests_for_AddService_TC_admin_login_test_blog.coverage" NAME="Unittests for AddService_TC.admin_login.test_blog Coverage Results" MODIFIED="1543178763769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mfs_TC$Unittests_for_ChangePassword_TC_admin_login.coverage" NAME="Unittests for ChangePassword_TC.admin_login Coverage Results" MODIFIED="1543166818576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mfs_TC$Unittests_for_AddCustomer_TC_admin_login.coverage" NAME="Unittests for AddCustomer_TC.admin_login Coverage Results" MODIFIED="1543168483522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/8210testCases$Unittests_for_loginLogout_TC_admin_login.coverage" NAME="Unittests for loginLogout_TC.admin_login Coverage Results" MODIFIED="1542210896271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mfs_TC$Unittests_for_AddProduct_TC_admin_login.coverage" NAME="Unittests for AddProduct_TC.admin_login Coverage Results" MODIFIED="1543177619137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/8210assign4$Unittests_for_ForgotPassword_TC_admin_login_test_blog.coverage" NAME="Unittests for ForgotPassword_TC.admin_login.test_blog Coverage Results" MODIFIED="1543126244659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mfs_TC$Unittests_for_EditCustomer_TC_admin_login_test_blog.coverage" NAME="Unittests for EditCustomer_TC.admin_login.test_blog Coverage Results" MODIFIED="1543178671847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="loginLogout_TC.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/loginLogout_TC.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeleteService_TC.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DeleteService_TC.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-12">
+              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddProduct_TC.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AddProduct_TC.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="41" column="35" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="31" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EditProduct_TC.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EditProduct_TC.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeleteProduct_TC.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DeleteProduct_TC.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-17">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddCustomer_TC.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AddCustomer_TC.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EditCustomer_TC.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EditCustomer_TC.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="43" column="60" lean-forward="true" selection-start-line="43" selection-start-column="60" selection-end-line="43" selection-end-column="60" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeleteCustomer_TC.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DeleteCustomer_TC.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddService_TC.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AddService_TC.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EditService_TC.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EditService_TC.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/addUserAdmin_TC (1).py" />
+        <option value="$PROJECT_DIR$/ForgotPassword_TC.py" />
+        <option value="$USER_HOME$/Downloads/Login_AddPt_Logout_TC.py" />
+        <option value="$PROJECT_DIR$/ChangePassword_TC.py" />
+        <option value="$PROJECT_DIR$/loginLogout_TC.py" />
+        <option value="$PROJECT_DIR$/AddCustomer_TC.py" />
+        <option value="$PROJECT_DIR$/DeleteCustomer_TC.py" />
+        <option value="$PROJECT_DIR$/AddService_TC.py" />
+        <option value="$PROJECT_DIR$/EditService_TC.py" />
+        <option value="$PROJECT_DIR$/DeleteService_TC.py" />
+        <option value="$PROJECT_DIR$/AddProduct_TC.py" />
+        <option value="$PROJECT_DIR$/EditProduct_TC.py" />
+        <option value="$PROJECT_DIR$/DeleteProduct_TC.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="y" value="33" />
+    <option name="width" value="1281" />
+    <option name="height" value="699" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mfs_TC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mfs_TC" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for DeleteProduct_TC.admin_login.test_blog">
+    <configuration name="Unittests for AddProduct_TC.admin_login.test_blog" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="8210testCases" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;AddProduct_TC.admin_login.test_blog&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for DeleteProduct_TC.admin_login.test_blog" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="8210testCases" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;DeleteProduct_TC.admin_login.test_blog&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for DeleteService_TC.admin_login.test_blog" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="8210testCases" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;DeleteService_TC.admin_login.test_blog&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for EditProduct_TC.admin_login.test_blog" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="8210testCases" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;EditProduct_TC.admin_login.test_blog&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for EditService_TC.admin_login.test_blog" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="8210testCases" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;EditService_TC.admin_login.test_blog&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests for EditService_TC.admin_login.test_blog" />
+      <item itemvalue="Python tests.Unittests for DeleteService_TC.admin_login.test_blog" />
+      <item itemvalue="Python tests.Unittests for AddProduct_TC.admin_login.test_blog" />
+      <item itemvalue="Python tests.Unittests for EditProduct_TC.admin_login.test_blog" />
+      <item itemvalue="Python tests.Unittests for DeleteProduct_TC.admin_login.test_blog" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for DeleteProduct_TC.admin_login.test_blog" />
+        <item itemvalue="Python tests.Unittests for EditProduct_TC.admin_login.test_blog" />
+        <item itemvalue="Python tests.Unittests for AddProduct_TC.admin_login.test_blog" />
+        <item itemvalue="Python tests.Unittests for DeleteService_TC.admin_login.test_blog" />
+        <item itemvalue="Python tests.Unittests for EditService_TC.admin_login.test_blog" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="966e44be-d999-4ebc-9430-bb72232e52a8" name="Default" comment="" />
+      <created>1542081359178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542081359178</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_DeleteProduct_TC_admin_login_test_blog - 2018.11.25 at 14h 39m 31s.xml">
+      <configuration name="Unittests for DeleteProduct_TC.admin_login.test_blog" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_AddCustomer_TC_py - 2018.11.25 at 14h 44m 11s.xml">
+      <configuration name="Unittests in AddCustomer_TC.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_EditCustomer_TC_admin_login_test_blog - 2018.11.25 at 14h 45m 08s.xml">
+      <configuration name="Unittests for EditCustomer_TC.admin_login.test_blog" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_DeleteCustomer_TC_admin_login_test_blog - 2018.11.25 at 14h 45m 47s.xml">
+      <configuration name="Unittests for DeleteCustomer_TC.admin_login.test_blog" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_AddService_TC_admin_login_test_blog - 2018.11.25 at 14h 46m 46s.xml">
+      <configuration name="Unittests for AddService_TC.admin_login.test_blog" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_EditService_TC_admin_login_test_blog - 2018.11.25 at 14h 47m 30s.xml">
+      <configuration name="Unittests for EditService_TC.admin_login.test_blog" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_DeleteService_TC_admin_login_test_blog - 2018.11.25 at 14h 48m 10s.xml">
+      <configuration name="Unittests for DeleteService_TC.admin_login.test_blog" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_AddProduct_TC_admin_login_test_blog - 2018.11.25 at 14h 49m 18s.xml">
+      <configuration name="Unittests for AddProduct_TC.admin_login.test_blog" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_EditProduct_TC_admin_login_test_blog - 2018.11.25 at 14h 50m 18s.xml">
+      <configuration name="Unittests for EditProduct_TC.admin_login.test_blog" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_DeleteProduct_TC_admin_login_test_blog - 2018.11.25 at 14h 51m 06s.xml">
+      <configuration name="Unittests for DeleteProduct_TC.admin_login.test_blog" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.32920355" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32920355" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16518219" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32920355" />
+      <window_info anchor="right" id="SciView" order="0" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Downloads/Login_AddPt_Logout_TC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addUserAdmin_TC (1).py" />
+    <entry file="file://$USER_HOME$/Downloads/Login_AddPt_Logout_TC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loginLogout_TC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Login_AddPt_Logout_TC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addUserAdmin_TC (1).py" />
+    <entry file="file://$PROJECT_DIR$/loginLogout_TC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addUserAdmin_TC (1).py" />
+    <entry file="file://$USER_HOME$/Downloads/Login_AddPt_Logout_TC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="61" column="32" lean-forward="true" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ISQA 8380/testcase/Testscript/add_coffee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addUserAdmin_TC (1).py" />
+    <entry file="file://$PROJECT_DIR$/ChangePassword_TC - Copy.py" />
+    <entry file="file://$PROJECT_DIR$/ForgotPassword_TC.py" />
+    <entry file="file://$USER_HOME$/Downloads/Login_AddPt_Logout_TC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChangePassword_TC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loginLogout_TC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddCustomer_TC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EditCustomer_TC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="43" column="60" lean-forward="true" selection-start-line="43" selection-start-column="60" selection-end-line="43" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeleteCustomer_TC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddService_TC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EditService_TC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeleteService_TC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddProduct_TC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="41" column="35" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="31" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EditProduct_TC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeleteProduct_TC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
